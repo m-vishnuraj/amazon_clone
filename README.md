@@ -8,7 +8,7 @@ A new Flutter Amazone Cone.
 - npm init
 - npm i http express mongoose nodemon
 ### Server Craeted
-- npm i bcrypt (for hashing password)
+- npm i bcryptjs (for hashing password)
 - auth route ✔
 
 
